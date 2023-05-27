@@ -1,0 +1,44 @@
+.leftbar{
+    flex: 1;
+    
+
+}
+.leftcontainer{
+   width: 20pc;
+   height: 60vh;
+   background-color: #97daa7;
+   margin-top: -1000px;
+   margin-left: 60px;
+   border-radius: 14px;
+   overflow: hidden;
+   object-fit: cover;
+   
+}
+.adsimg{
+   width: 130px;
+   height: 130px;
+   padding: 10px;
+   object-fit: cover;
+
+
+
+}
+.Leftcontainer2{
+    width: 20pc;
+    height: 40vh;
+    background-color: #97daa7;
+    margin-top: 20px;
+    margin-left: 60px;
+    border-radius: 20px;
+    overflow: hidden;
+    object-fit: cover;
+
+}
+
+.addfreind{
+    width: 30px;
+    height: 30px;
+  border-radius: 50%;
+
+
+}

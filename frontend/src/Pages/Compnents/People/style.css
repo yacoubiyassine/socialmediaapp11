@@ -1,0 +1,3 @@
+.content {
+    flex: 1; /* cette propriété permet de faire prendre toute la place restante à l'élément */
+  }

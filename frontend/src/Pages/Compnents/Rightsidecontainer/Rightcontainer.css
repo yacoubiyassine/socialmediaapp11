@@ -1,0 +1,56 @@
+.rightcontainer{
+    flex: 1;
+
+}
+.NotificationsContainer{
+   width: 28pc;
+   height: 100vh;
+   background-color: rgb(225, 219, 211);
+   margin-top: 1px;
+   border-radius: 20px;
+   overflow: hidden;
+   overflow-y: scroll;
+   margin-left: 70px;
+}
+.notificationimg{
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    margin-left: 20px;
+   
+}
+.likeimage{
+   width: 30px;
+   height: 30px;
+   margin-left:85px;
+   border-radius: 3px;
+
+}
+.followinguserimage{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-left: 40px;
+
+}
+.exploreimage{
+    width: 86px;
+    height: 150px;
+    margin-left: 4px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-top: 10px;
+
+
+}
+.profileimage{
+     width: 40px;
+     height: 40px;
+     border-radius: 50px;
+     margin-left: 10px;
+}
+.addfreind{
+   width: ;
+
+
+}
